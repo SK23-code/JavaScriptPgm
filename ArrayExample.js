@@ -1,3 +1,4 @@
+//Array is a list stored in one variable written using square barcktes which hold differnt values.
 let students=["Anu","Manu","Sanu","Kani","Arun"]; // Stored 5 values in the array. Last position is n-1(arun position is 4)
 console.log(students);
 
@@ -5,7 +6,7 @@ let details=["Sreekanth",100,true,10.5]; // Array can store multiple values. Als
 console.log(details);
 
 let fruits=["Mango","Banana","Apple"];
-fruits[2]="Orange";// Calling index position to cange the value
+fruits[2]="Orange";// Calling index position to change the value
 console.log(fruits);
 
 let students1=[];
